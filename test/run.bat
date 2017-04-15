@@ -1,0 +1,1 @@
+java -classpath ..\jpg.jar;c:\itext\*;. %1
